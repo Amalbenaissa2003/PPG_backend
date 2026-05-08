@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     # Apps
     'accounts',
     'notes',
+    'tests',
 ]
 
 MIDDLEWARE = [
